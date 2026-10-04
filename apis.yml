@@ -39,7 +39,6 @@ apis:
   - name: GitHub ReadMe Stats
     description: "Add dynamically generated statistics to your GitHub profile ReadMe"
     humanURL: https://github.com/anuraghazra/github-readme-stats
-    baseURL: https://github.com/anuraghazra/github-readme-stats
     tags:
       - Open Source Projects
     properties:
